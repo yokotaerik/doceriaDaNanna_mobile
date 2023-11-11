@@ -31,6 +31,12 @@
 ## Tela para adicionar os itens aos pedidos: <br/>
 ![image](https://github.com/yokotaerik/doceriaDaNanna_mobile/assets/142221764/ade415a1-a2d3-4c84-9f38-072c8a39912e) <br/>
 
+
+## Para iniciar utilize o comando na pasta raiz do projeto: 
+ npx expo start
+
+
+
 ## Tela de confirmação se deseja enviar o pedido: <br/> 
 ![image](https://github.com/yokotaerik/doceriaDaNanna_mobile/assets/142221764/52c7d0e2-7863-402c-88b4-aa2761ebaf36) <br/>
 
